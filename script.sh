@@ -1,2 +1,2 @@
 cd /var/
-touch 1
+touch /var/1
